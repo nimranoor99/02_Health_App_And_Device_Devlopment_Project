@@ -4,7 +4,7 @@
 
 **Overview**
 <br>
-This project aims to develop a comprehensive health monitoring system consisting of a hardware device and an Android application. The device, built using Arduino and C++, is designed to collect data from various health sensors (oxymeter, Max3010, and pedometer). The collected data is then transmitted to an Android application developed using Java and on LSD screen od device. The application stores and analyzes the data, providing users with valuable insights into their health metrics.
+This project aims to develop a comprehensive health monitoring system consisting of a hardware device and an Android application. The device, built using Arduino and C++, is designed to collect data from various health sensors (oxymeter, Max3010, and pedometer). The collected data is then transmitted to an Android application developed using Java and on LSD screen od device. The application stores and analyzes the data, providing users with valuable insights into their health metrics. Defense presenattion has been provided.
 <br>
 
 **Hardware Component**
@@ -25,7 +25,7 @@ This project aims to develop a comprehensive health monitoring system consisting
 
 **Testing and Validation**
 <br>
-* **Simulation Results:** Multiple techniques has been used to make sure that no compromise on accuracy of device can be made. For some tesing check the attached file of **Testing of Different Proposed Devices**
+* **Simulation Results:** Multiple techniques has been used to make sure that no compromise on accuracy of device can be made. For some tesing check the attached file of **Testing of Different Proposed Devices**. Demonstration videos also added
 *  **Image:** Provided multiple image of the assembled hardware device and mobile applications.
 <br>
 
@@ -36,11 +36,10 @@ This project aims to develop a comprehensive health monitoring system consisting
 * **Link:** https://drive.google.com/file/d/1yYUD0ruHekvrzuzulDNDeuDfe8_pn-Zk/view?usp=sharing
 <br>
 
-**Demonstration Video**
+**Andriod Application**
 <br>
-* **Oximeter Link: **
-* **Pedometer Link: **
-<br>
+* **Application Name:** Glucoxy
+* **Code Link:** https://drive.google.com/file/d/1XZP_u44pTfQjckR3c6_05D5kxsZYQVgC/view?usp=sharing
 
 **Getting Started**
 <br>
@@ -52,12 +51,12 @@ This project aims to develop a comprehensive health monitoring system consisting
 
 **Contributing**
 <br>
-Contributions are welcome! If you'd like to contribute, please follow these guidelines:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Commit and push your changes.
-5. Submit a pull request.
+* **Contributions are welcome! If you'd like to contribute, please follow these guidelines:**
+  - Fork the repository.
+  - Create a new branch.
+  - Make your changes.
+  - Commit and push your changes.
+  - Submit a pull request.
 <br>
 
 **License:**
@@ -79,7 +78,3 @@ For any questions or feedback, feel free to contact Nimra Noor at nimranoor584@g
 * Please follow the project's coding style and formatting conventions.
 * If you're unsure about something, feel free to ask questions or open a discussion.
 * We appreciate your contributions!
-
-
-
-
