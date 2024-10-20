@@ -4,7 +4,7 @@
 
 **Overview**
 <br>
-This project aims to develop a comprehensive health monitoring system consisting of a hardware device and an Android application. The device, built using Arduino and C++, is designed to collect data from various health sensors (oxymeter, Max3010, and pedometer). The collected data is then transmitted to an Android application developed using Java and on LSD screen od device. The application stores and analyzes the data, providing users with valuable insights into their health metrics. Defense presenattion has been provided.
+This project aims to develop a comprehensive health monitoring system consisting of a hardware device and an Android application. The device, built using Arduino and C++, is designed to collect data from various health sensors (oxymeter, Max3010, and pedometer). The collected data is then transmitted to an Android application developed using Java and on LSD screen od device. The application stores and analyzes the data, providing users with valuable insights into their health metrics. Defense presentation has been provided.
 <br>
 
 **Hardware Component**
